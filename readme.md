@@ -2,6 +2,9 @@
 
 ![alt text](Kits/FidelityFX/docs/media/AMD_FSR_SDK_Lockup_RGB_Wht.png)
 
+
+https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/tree/01446e6a74888bf349652fcf2cbf5f642d30c2bf
+
 The AMD FSR™ SDK is a collection of heavily optimized technologies that can be used by developers to improve their DirectX® 12 or Vulkan® applications. 
 
 The AMD FSR™ SDK includes:
